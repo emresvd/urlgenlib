@@ -2,9 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='urlgenlib',
-    version='1.0.0',
+    version='1.0.1',
     author='emresvd',
-    license='MIT',
     packages=find_packages(),
     install_requires=[
         'beautifulsoup4==4.11.1',
